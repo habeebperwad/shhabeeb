@@ -1,3 +1,8 @@
+## The assignment to create a match ing engine.
+
+1. We will be getting some buy orders to trade
+2. We will be getting some sell orders to trade
+
 ## Introduction to trading!
 
 1. A buy order contains stock-name, quantity-needed and bid (maximum price).
@@ -51,8 +56,11 @@ npm run dev
 ### This is **trade-engine** code js file.
 
     1.  Group buying requests based on stock-names.
-    2. Deploy threads (precisely async functions. Nodejs is event loop based.) for each stock-name group.
-    3.  Each thread will execute trade sequentially, which will honour created-date and avoid transaction-conflict since each thread accesses the documents belong to their stock-name-group.
+    2. Deploy threads (precisely async functions.
+       Nodejs is event loop based.) for each stock-name group.
+    3. Each thread will execute trade sequentially,
+       which will honour created-date and avoid transaction-conflict
+       since each thread accesses the documents belong to their stock-name-group.
 
 ### Sample code Run
 
