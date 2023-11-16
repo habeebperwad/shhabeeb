@@ -12,7 +12,7 @@
 
 ![screenshot](screenshot.png)
 
-- You can see the [Video description](XYZ) of the appplication.
+- You can see the [Video description](https://drive.google.com/file/d/1vBIs9xrwLhosEoFj1HDTZW3E0SkGb2Xj/view?usp=sharing) of the appplication.
 
 ## Database: MongoDB
 
