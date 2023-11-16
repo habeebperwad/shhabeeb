@@ -69,7 +69,7 @@ npm run dev
 ### Sample code Run
 
 ```
-cd cli_script
+cd cli_scripts
 node drop_collections_from_db.js
 node push_test_data_rest_via_api.js
 
