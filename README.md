@@ -10,6 +10,10 @@
 3. The trade engine should fullfill a buy order by finding all the stocks with lowest price.
 4. Buy order should be fulfilled in the order of their creation-date.
 
+![screenshot](screenshot.png)
+
+- You can see the [Video description](XYZ) of the appplication.
+
 ## Database: MongoDB
 
 - [See database details.](./DockerfileMongodbReplset/README.md)
